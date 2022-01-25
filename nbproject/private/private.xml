@@ -5,9 +5,13 @@
         <group>
             <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/IPAddressTest.java</file>
             <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/InetAddressObjectmethod.java</file>
+            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/SpamChecker.java</file>
             <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/TestReachability.java</file>
+            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/InterfaceLister.java</file>
             <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/AddressTest.java</file>
             <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/IPV4Demo.java</file>
+            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/NetworkInterfaceDemo.java</file>
+            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/URLDemo.java</file>
         </group>
     </open-files>
 </project-private>
