@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/IPAddressTest.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/InetAddressObjectmethod.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/SpamChecker.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/TestReachability.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/InterfaceLister.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/AddressTest.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/IPV4Demo.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/NetworkInterfaceDemo.java</file>
-            <file>file:/C:/netbeans/bin/NPBernhardt/src/npbernhardt/URLDemo.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
