@@ -39,7 +39,7 @@ public class URLDemo {
         System.out.println(url1.getHost());
         System.out.println(url1.getRef());
         
-        URLConnection con = url1.openConnection();
+        //URLConnection con = url1.openConnection();
         
     }
 }
